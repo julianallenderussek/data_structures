@@ -1,6 +1,12 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    int favorite_number;
+
+    std::cout << "Enter your favorite number: ";
+    std::cin >> favorite_number;
+
     return 0;
 }
+

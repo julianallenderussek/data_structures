@@ -1,0 +1,26 @@
+# Ignore all object files and compiled binaries
+/udemy_solutions
+
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.dll
+
+# Ignore CMake build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Ignore other common binary and intermediate files
+*.gch
+*.dSYM/
+*.pch
+*.log
+
+# Ignore any temporary or editor-specific files
+*.tmp
+*.swp
+*~

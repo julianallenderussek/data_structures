@@ -1,7 +1,11 @@
 #!/bin/bash
 
 # Path to the C++ file (set this variable)
-CPP_FILE_PATH="./exercises/main.cpp"
+
+# CPP_FILE_PATH="./exercises/main.cpp"
+# CPP_FILE_PATH="./data_structures/vector/2dvector.cpp"
+# CPP_FILE_PATH="./data_structures/maps/containsCycle.cpp"
+CPP_FILE_PATH="./coding_challenges/arrays/largestBand.cpp"
 
 # Output executable name
 OUTPUT_FILE="program.out"
