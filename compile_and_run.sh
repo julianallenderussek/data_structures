@@ -4,8 +4,8 @@
 
 # CPP_FILE_PATH="./exercises/main.cpp"
 # CPP_FILE_PATH="./data_structures/vector/2dvector.cpp"
-# CPP_FILE_PATH="./data_structures/maps/containsCycle.cpp"
-CPP_FILE_PATH="./coding_challenges/arrays/largestBand.cpp"
+# CPP_FILE_PATH="./udemy_solutions/01 Arrays & Vectors/07 rainwater-trap.cpp"
+CPP_FILE_PATH="./coding_challenges/arrays/busyLife.cpp"
 
 # Output executable name
 OUTPUT_FILE="program.out"

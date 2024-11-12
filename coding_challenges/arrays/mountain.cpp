@@ -26,7 +26,7 @@ int highest_mountain(vector<int> arr) {
         cnt++;
       }
 
-      // count forwards
+      // count forwardsdd
       while (i <= n - 2 and arr[i] > arr[i + 1]) {
         i++;
         cnt++;

@@ -1,5 +1,6 @@
 # Ignore all object files and compiled binaries
 /udemy_solutions
+/dsa_solutions-cpp-master
 
 *.o
 *.obj
